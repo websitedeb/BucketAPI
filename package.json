@@ -1,8 +1,8 @@
 {
-  "name": "nodejs",
+  "name": "bucketAPI",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./BucketAPI/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "replit": "^0.3.1"
   }
 }
